@@ -57,7 +57,7 @@ This boot camp offers hands-on experience in building Spring Framework applicati
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/java-complete-bootcamp.git
+   git clone https://github.com/n-mandadapu/Java.git
    ```
 2. Navigate to the project directory:
    ```sh
