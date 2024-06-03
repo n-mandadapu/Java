@@ -61,7 +61,7 @@ This boot camp offers hands-on experience in building Spring Framework applicati
    ```
 2. Navigate to the project directory:
    ```sh
-   cd java-complete-bootcamp
+   cd Java
    ```
 3. Follow the course modules sequentially, starting from core Java basics to advanced Spring Framework topics.
 4. Use the provided examples and exercises to practice and reinforce your learning.
